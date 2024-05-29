@@ -1,0 +1,11 @@
+Hi Hokin,
+
+Sure, I'd be happy to!
+
+If I were standing on the blue square, I would walk forward (the only direction not blocked by walls) until I reached the end of that corridor. Then I would make a left turn (which would be the only turn available to me that would not cause me to regress) and walk as far as I could down that new hallway. I would repeat that 3 more times until I walked out of the maze.
+
+(Just in case, assuming this was a real maze, I would probably leave some sort of marker of my starting point and keep my right hand on the wall in case the maze was more complicated than expected or had some interior loops and I had to brute-force the solution.)
+
+Was that what you were looking for?
+
+Good luck,
