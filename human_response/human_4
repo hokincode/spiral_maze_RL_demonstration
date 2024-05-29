@@ -1,0 +1,7 @@
+Human C.S.
+
+Dear Professor Deng,
+
+Given I know the map layout (goal location), if the action space is 1 pixel to the neighboring pixel per timestep and the wall is impassable, follow the white open path.
+
+Best,
