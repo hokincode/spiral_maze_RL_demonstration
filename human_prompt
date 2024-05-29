@@ -1,8 +1,7 @@
-Prompt for spiral maze, with initial position at the blue pixel and exit position is at the green pixel.
+Given the following maze, with initial position at the blue pixel and exit position at the green pixel.
 
 the_spiral_questionaire.jpg
 
-while pixels indicate open path, while black pixels indicate walls.
+white pixels indicate open path, and black pixels indicate walls.
 
 Please tell me your plan to exit the maze.
-
