@@ -1,6 +1,6 @@
 Given the following maze, with initial position at the blue pixel and exit position at the green pixel.
 
-the_spiral_questionaire.jpg
+maze.png
 
 white pixels indicate open path, and black pixels indicate walls.
 
