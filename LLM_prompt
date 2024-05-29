@@ -1,5 +1,3 @@
-Prompt: 
-
 Prompt for spiral maze, with initial position at (3,3) and exit at (5,6):
 
 maze_layout =   [[1, 1, 1, 1, 1, 1, 1],
@@ -13,4 +11,4 @@ maze_layout =   [[1, 1, 1, 1, 1, 1, 1],
 
 0 is open path, and 1 is wall.
 
-You initial position is at (3,3). And your exit is at (5,6). Do not use algorithms. Plan using language. Explain your reasoning. Please provide me the linguistic plan to exit the maze. 
+You initial position is at (3,3). And your exit is at (5,6). Do not use algorithms. Check each time if there is a wall. If there is a wall and then comes back. Plan using language. Explain your reasoning. Please provide me the linguistic plan to exit the maze. You are allow to take up to 50 steps.
